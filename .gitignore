@@ -1,2 +1,5 @@
+.deps_plt
+.eunit
+doc
 ebin
 deps
